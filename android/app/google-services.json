@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634444281597",
+    "project_id": "suppbro-1996",
+    "storage_bucket": "suppbro-1996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634444281597:android:3532a997e24e3ccafbf094",
+        "android_client_info": {
+          "package_name": "escadarebelo.com.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634444281597-lgrir3s3mdr10o8p7ejtjunckbfn235u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSZwq7VZhYsLHirJAvij2P3CQTcImyas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634444281597-lgrir3s3mdr10o8p7ejtjunckbfn235u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
